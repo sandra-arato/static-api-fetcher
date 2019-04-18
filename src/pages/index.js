@@ -54,7 +54,7 @@ class IndexPage extends React.Component {
         <button onClick={this.clickHandler}>Go</button>
         <p>
 
-          {this.state.data}
+          {/* this.state.data will come here  */}
         </p>
       </Layout>
     );
